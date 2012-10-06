@@ -11,5 +11,6 @@ Just call:
 Scripts description
 -------------------
 
-*   script 01
+*   script 01:
+
     Generate a very basic video with all images. No transition, no sound, just a basic video
